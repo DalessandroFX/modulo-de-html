@@ -2,6 +2,7 @@
 body{
     background-color: #666666;
     color: #ffff;
+    align-content: center;
 }
 .titulo{
     text-align: center;
